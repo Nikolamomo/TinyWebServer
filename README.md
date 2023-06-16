@@ -17,7 +17,8 @@
 * **开始运行**
 
 	(1).下载程序;
-
+	
+	git clone git@github.com:Nikolamomo/TinyWebServer.git
 	
 	
 	(2).打开新终端，指定ip地址和端口运行服务器程序：
